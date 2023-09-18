@@ -45,5 +45,5 @@ jobs:
           token: ${{ secrets.ACCESS_TOKEN }}
           repository-name: humeng1010/humeng1010.github.io
           # 这是文档部署到的分支名称
-          branch: test
+          branch: main
           folder: src/.vuepress/dist
