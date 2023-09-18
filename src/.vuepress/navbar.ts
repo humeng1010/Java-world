@@ -8,8 +8,13 @@ export default navbar([
   },
   {
     text: "项目推荐",
-    icon: "ability",
+    icon: "back-stage",
     link: "/project-recommend/"
+  },
+  {
+    text: "面试海岛",
+    icon: "window",
+    link: "/interview/"
   },
   {
     text: "V1 博客",
