@@ -1,6 +1,6 @@
 ---
 # 这是文章的标题
-title: Java基础大陆第二幕
+title: Java基础第二幕
 # 这是页面的图标
 # icon: file
 # 这是侧边栏的顺序

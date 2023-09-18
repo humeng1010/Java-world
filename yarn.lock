@@ -4943,6 +4943,11 @@ slash@^4.0.0:
   resolved "https://registry.npmmirror.com/slash/-/slash-4.0.0.tgz#2422372176c4c6c5addb5e2ada885af984b396a7"
   integrity sha512-3dOsAHXXUkQTpOYcoAxLIorMTp4gIQr5IW3iVb7A7lFIp0VHhnynm9izx6TssdrIcVIESAlVjtnO2K8bg+Coew==
 
+slimsearch@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmmirror.com/slimsearch/-/slimsearch-1.0.0.tgz#e05feefd2bc311f0ccfe0e52742b246085b45df4"
+  integrity sha512-ig1Du+U5LFngeDokhUupBqmEz3aKRJ4v+R2t6ZOi3aPGaFivYxxOiDcJX7fR0xPxjmTe94rAA6RW5gKlX5Gcsg==
+
 "source-map-js@>=0.6.2 <2.0.0", source-map-js@^1.0.2:
   version "1.0.2"
   resolved "https://registry.npmmirror.com/source-map-js/-/source-map-js-1.0.2.tgz#adbc361d9c62df380125e7f161f71c826f1e490c"
@@ -5618,6 +5623,23 @@ vuepress-plugin-sass-palette@2.0.0-beta.237:
     "@vuepress/utils" "2.0.0-beta.67"
     chokidar "^3.5.3"
     sass "^1.66.1"
+    vuepress-shared "2.0.0-beta.237"
+
+vuepress-plugin-search-pro@^2.0.0-beta.237:
+  version "2.0.0-beta.237"
+  resolved "https://registry.npmmirror.com/vuepress-plugin-search-pro/-/vuepress-plugin-search-pro-2.0.0-beta.237.tgz#4f5b5407f1e5acefa3e75f0b5d1b13a1012e5285"
+  integrity sha512-EtIR6ewf4MfiFpYrxzwsobDSloSz2FeU8dWjYo6/XePNQgY4XCG7higZLg3+ooTmAkqEvxI5NcsirHu1gOY0ow==
+  dependencies:
+    "@vuepress/client" "2.0.0-beta.67"
+    "@vuepress/shared" "2.0.0-beta.67"
+    "@vuepress/utils" "2.0.0-beta.67"
+    "@vueuse/core" "^10.4.1"
+    cheerio "1.0.0-rc.12"
+    chokidar "^3.5.3"
+    slimsearch "^1.0.0"
+    vue "^3.3.4"
+    vue-router "^4.2.4"
+    vuepress-plugin-sass-palette "2.0.0-beta.237"
     vuepress-shared "2.0.0-beta.237"
 
 vuepress-plugin-seo2@2.0.0-beta.237:

@@ -2,13 +2,13 @@ import { arraySidebar } from "vuepress-theme-hope";
 
 export const index = arraySidebar([
     {
-        text: "Java大陆",
+        text: "Java",
         icon: "java",
         collapsible: true,
-        prefix: "Java/",
+        prefix: "java/",
         children: [
             {
-                text: "基础大陆",
+                text: "Java基础",
                 prefix: "basis-land/",
                 icon: "bit",
                 children: [
@@ -38,7 +38,7 @@ export const index = arraySidebar([
                     "java-collection-land-01",
                     {
                         text: "源码分析",
-                        icon: "star",
+                        icon: "info",
                         collapsible: true,
                         children: [
                             "arraylist-source-code",
@@ -54,7 +54,7 @@ export const index = arraySidebar([
                     "java-concurrent-land-01",
                     {
                         text: "重要知识点",
-                        icon: "star",
+                        icon: "info",
                         collapsible: true,
                         children: [
                         ],
@@ -64,13 +64,19 @@ export const index = arraySidebar([
             {
                 text: "IO",
                 prefix: "io/",
-                icon: "code",
+                icon: "IO",
                 children: ["io-basis"],
+            },
+            {
+                text: "网络编程",
+                prefix: "network/",
+                icon: "network",
+                children: ["network-program"],
             },
             {
                 text: "新特性",
                 prefix: "new-features/",
-                icon: "featured",
+                icon: "more",
                 children: [
                     "java8-common-new-features",
                 ],
@@ -79,7 +85,7 @@ export const index = arraySidebar([
     },
 
     {
-        text: "MySQL大陆",
+        text: "MySQL",
         icon: "mysql",
         prefix: "mysql/",
         collapsible: true,// 可折叠
@@ -87,5 +93,46 @@ export const index = arraySidebar([
             "mysql-basis"
         ],
     },
+    {
+        text: "JavaWeb",
+        icon: "chrome",
+        prefix: "java-web/",
+        collapsible: true,// 可折叠
+        children: "structure",
+    },
+    {
+        text: "Linux",
+        icon: "centos",
+        prefix: "linux/",
+        collapsible: true,// 可折叠
+        children: [
+            "one-week-learning-linux",
+            "linux-common-commands",
+            {
+                text: "linux实战",
+                icon: "info",
+                collapsible: true,
+                children: [
+                    "deploying-various-software",
+                    "use-docker-to-deploy-backend-separation-projects",
+                    "linux-nohup-&"
+                ]
+            }
+        ],
+    },
+    {
+        text: "SSM框架",
+        icon: "type",
+        prefix: "ssm/",
+        collapsible: true,
+        children: [
+            "spring",
+            "spring-mvc",
+            "maven-advance",
+            "springboot",
+            "mybatis-plus"
+        ]
+
+    }
 
 ])

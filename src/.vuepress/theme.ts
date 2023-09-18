@@ -11,6 +11,8 @@ export default hopeTheme({
   },
 
   // iconAssets: "fontawesome-with-brands",
+  // https://www.iconfont.cn/
+  // iconAssets: "//at.alicdn.com/t/c/font_4257804_dcy06chwf0o.css",
   iconAssets: "iconfont",
 
   logo: "/logo.png",
@@ -19,13 +21,16 @@ export default hopeTheme({
 
   docsDir: "src",
 
+  print: true,// 打印
+  fullscreen: true,// 全屏
+
   // navbar
   navbar,
 
   // sidebar
   sidebar,
 
-  footer: "默认页脚",
+  footer: "JavaWorld.top",
 
   displayFooter: true,
 
