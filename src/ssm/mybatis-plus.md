@@ -1,3 +1,7 @@
+---
+title: MyBatisPlus
+---
+
 # MyBatisPlus简介
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/26314652/1660982327927-43bd387c-5f08-4cd5-8578-a94d15ecdd22.png#clientId=ubab6e0ac-e4c2-4&from=paste&height=238&id=u556191e4&name=image.png&originHeight=476&originWidth=1938&originalType=binary&ratio=1&rotation=0&showTitle=false&size=217420&status=done&style=shadow&taskId=u479b48b4-65fa-4178-98a1-0ab81914798&title=&width=969)![image.png](https://cdn.nlark.com/yuque/0/2022/png/26314652/1660985465430-bbb07731-8442-404c-ace6-d3e3f0c31a18.png#clientId=ufc45b0be-154f-4&from=paste&height=339&id=u325cd9ad&name=image.png&originHeight=678&originWidth=2044&originalType=binary&ratio=1&rotation=0&showTitle=false&size=285219&status=done&style=shadow&taskId=u6dc4b0aa-f841-4dc1-b48f-27d98299a4b&title=&width=1022)
 # 快速入门

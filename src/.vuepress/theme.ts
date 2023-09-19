@@ -5,6 +5,7 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   hostname: "https://www.javaworld.top",
 
+  // pure: true,
   author: {
     name: "Hu Meng",
     url: "https://github.com/humeng1010",
@@ -44,6 +45,7 @@ export default hopeTheme({
   metaLocales: {
     editLink: "在 GitHub 上编辑此页",
   },
+
 
   plugins: {
     // You should generate and use your own comment service
