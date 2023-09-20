@@ -12,12 +12,10 @@ title: 面试总结篇
 - 并发编程：熟悉 Java 并发编程，了解 synchornized、ThreadLocal、CAS、AQS、线程池 等
 - 关系型数据库：熟悉 MySQL 和 SQL 语句的编写，掌握 MySQL 中的索引、事务、mvcc等常见知识 
 - 非关系型数据库：熟悉 Redis 的使用，能够通过 Redis 实现分布式锁、缓存，并了解 Redis 的持久化策略以及数据过期策略，了解缓存穿透，击穿，雪崩的问题 
-- 消息队列：熟悉RocketMQ的基本用法，能够使用消息队列实现业务的 异步处理、应用解构、流量削峰，了解如何解决消息顺序消费、消息的重复消费以及消息堆积的问题
-- 开源框架：熟悉 SSM + SpringBoot开发框架，能够使用 MyBatis Plus + MyBatis X 自动生成基础 CRUD 代码，熟悉 IOC 、AOP、Bean 的生命周期、Bean 的循环依赖、SpringBoot 的自动装配原理 等知识 
-- 微服务：熟悉 Nacos 和 Dubbo RPC 框架，能使用 Spring Cloud Gateway 实现 API 网关、访问控制、流量染色
-- 云原生：熟悉 Docker 容器的基本命令的使用，了解 Dockerfile 和 docker-compose 的编写， 能够独立部署前后端分离项目 
+- 消息队列：熟悉 RocketMQ 的基本用法，了解如何解决消息顺序消费、消息的重复消费以及消息堆积的问题
+- 开源框架：熟悉 SSM + SpringBoot 开发框架，能够使用 MyBatis Plus + MyBatis X 自动生成基础的 CRUD 代 码，熟悉 IOC 、AOP 、Bean 的生命周期、Bean 的循环依赖、SpringBoot 的自动装配原理 等知识
 - 开发工具：熟练使用 Maven、Git、IDEA、 Docker 等开发工具
-- 前端技术：了解 HTML 、CSS 、JavaScript 、Axios ；熟悉 Vue 框架
+- 前端技术：熟悉 HTML 、CSS 、JavaScript 、Axios 、 Vue 等前端技术
 
 ## 简历模板
 
