@@ -19,7 +19,6 @@ title: 面试总结篇
 
 ## 简历模板
 
-![image-20230918123333783](https://blog-images-1309758663.cos.ap-nanjing.myqcloud.com/202309181233001.png)
 
 [点击查看模板](https://www.mujicv.com/jianlimoban/c124a10e0db5e4b9/)
 
