@@ -133,6 +133,27 @@ export const index = arraySidebar([
             "mybatis-plus"
         ]
 
+    },
+    {
+        text: "SpringBoot",
+        icon: "structure",
+        prefix: "springboot/",
+        collapsible: true,
+        children: [
+            "SpringBoot基础篇",
+            "SpringBoot运维实用篇",
+            "SpringBoot开发实用篇",
+            "SpringBoot原理篇",
+        ]
+    },
+    {
+        text: "Docker",
+        icon: "module",
+        prefix: "docker/",
+        collapsible: true,
+        children: [
+            "Docker",
+        ]
     }
 
 ])

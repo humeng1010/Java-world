@@ -3,9 +3,9 @@
 # 目录
 
 1. Java
-   1. [Java基础第一幕](./Java/basis-land/java-basic-land-01.md)
-   2. [Java基础第二幕](./Java/basis-land/java-basic-land-02.md)
-   3. [Java基础第三幕](./Java/basis-land/java-basic-land-03.md)
+   1. [Java基础第一幕](./java/basis-land/java-basic-land-01.md)
+   2. [Java基础第二幕](./java/basis-land/java-basic-land-02.md)
+   3. [Java基础第三幕](./java/basis-land/java-basic-land-03.md)
 
 2. 迷失的路途
 
